@@ -157,7 +157,7 @@
     <value>Operator '{0}' is not defined for types {1} and {2}.</value>
   </data>
   <data name="ErrOpNotImplemented" xml:space="preserve">
-    <value>Operator '{0} not imlemented.</value>
+    <value>Operator '{0} not implemented.</value>
   </data>
   <data name="ErrOutErrorPrintFormat" xml:space="preserve">
     <value>{0}: {1}</value>
